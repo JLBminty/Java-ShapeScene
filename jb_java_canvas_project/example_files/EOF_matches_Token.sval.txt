@@ -1,0 +1,3 @@
+Scene EOFEqualsAToken (500,500)
+ Text Color (0, 0, 0) at (300, 200) "RECTANGLE";
+End.

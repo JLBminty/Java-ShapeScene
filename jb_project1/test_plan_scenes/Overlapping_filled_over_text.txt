@@ -1,4 +1,0 @@
-Scene OverlappingFilledOnText (500,500)
- Text Color (130, 220, 0) at (100, 150) "overlap bottom";
- RegularPolygon Color (0, 150, 230) at (150, 210) sides 9 radius 72;
-End.

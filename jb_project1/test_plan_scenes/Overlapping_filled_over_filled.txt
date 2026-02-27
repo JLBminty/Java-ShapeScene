@@ -1,4 +1,0 @@
-Scene OverlappingFilledOnFilled (500,500)
- RegularPolygon Color (0, 0, 200) at (200, 200) sides 9 radius 100;
- RegularPolygon Color (0, 150, 230) at (250, 210) sides 9 radius 72;
-End.

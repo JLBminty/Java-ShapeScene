@@ -1,3 +1,0 @@
-Scene SinglePolygon (500, 500)
- RegularPolygon Color (200, 0, 200) at (300, 300) Sides 8 Radius 88;
-End.

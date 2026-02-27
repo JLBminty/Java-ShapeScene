@@ -1,3 +1,0 @@
-Scene SingleText (500,500)
- Text Color (0, 0, 0) at (200, 300) "Hello World, how are you?";
-End.
