@@ -1,0 +1,4 @@
+Scene OverlappingTextOnText (500,500)
+ Text Color (130, 220, 0) at (400, 200) "overlap bottom";
+ Text Color (190, 50, 255) at (420, 205) "overlap top";
+End.

@@ -1,0 +1,4 @@
+Scene DuplicateParallelograms (500, 500)
+ Parallelogram color (100, 100, 100) at (100,100) (300,300) offset 50;
+ Parallelogram color (100, 100, 100) at (100,100) (300,300) offset 50;
+End.
